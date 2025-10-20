@@ -1,3 +1,3 @@
 # Pictures
 
-SOME PICTURES
+PICTURES
